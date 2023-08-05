@@ -1,6 +1,6 @@
 ---
 title: "The Current State of Next.js: Transforming the React Landscape"
-date: 2023-07-16
+date: "2023-07-16"
 tags: [Next.js, React, Web Development, JavaScript]
 ---
 
