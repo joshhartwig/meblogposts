@@ -2,6 +2,7 @@
 title: "Living in the Heart of Texas: My Dallas Experience"
 date: 2023-07-16
 tags: [Dallas, Texas, lifestyle, city living]
+description: "What is near Mexico, hot as hell and full of BBQ. Texas! Read more about the history of this neat state."
 ---
 
 ### Dallas - The Southern Metropolis
