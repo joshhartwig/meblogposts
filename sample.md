@@ -2,7 +2,6 @@
 title: "Sample for testing"
 date: 2023-07-01
 tags: [tests, React, Web Development, JavaScript]
-description: "test - sample.md"
 ---
 
 ## Mountains in the Pacific Northwest

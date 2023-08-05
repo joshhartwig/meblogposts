@@ -2,7 +2,6 @@
 title: "Living in the Heart of Texas: My Dallas Experience"
 date: 2023-07-16
 tags: [Dallas, Texas, lifestyle, city living]
-description: "test - dallas.md"
 ---
 
 ### Dallas - The Southern Metropolis
