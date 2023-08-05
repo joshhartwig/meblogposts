@@ -1,8 +1,8 @@
 ---
-title: "The Current State of Next.js: Transforming the React Landscape"
+title: The Current State of Next.js: Transforming the React Landscape
 date: 2023-07-16
 tags: [Next.js, React, Web Development, JavaScript]
-description: "The current landscape of Javascript frameworks is changing. Dive in and explore what is new and what is old."
+description: The current landscape of Javascript frameworks is changing. Dive in and explore what is new and what is old.
 ---
 
 ### Next.js - Revolutionizing React Development
