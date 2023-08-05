@@ -1,8 +1,8 @@
 ---
-title: "Sample for testing"
+title: Sample for testing
 date: 2023-07-01
 tags: [tests, React, Web Development, JavaScript]
-description: "A trip to the PCNW is a great way to spend the summer. If you love mountains and love scenery, you will love this post. Take a load of and enjoy!"
+description: test - sample.md
 ---
 
 ## Mountains in the Pacific Northwest
