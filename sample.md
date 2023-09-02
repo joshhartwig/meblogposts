@@ -2,6 +2,7 @@
 title: "Sample for testing"
 date: "2023-07-01"
 tags: [tests, React, Web Development, JavaScript]
+about: "a post about nothing'
 ---
 
 ## Mountains in the Pacific Northwest
